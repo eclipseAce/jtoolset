@@ -20,7 +20,7 @@
 		<lombok.version>1.18.18</lombok.version>
 		<httpcomponents.version>4.5.13</httpcomponents.version>
 		<jackson.version>2.12.1</jackson.version>
-		<mysql-connector.version>8.0.23</mysql-connector.version>
+		<mysql-connector.version>8.0.28</mysql-connector.version>
 		<jedis.version>3.5.1</jedis.version>
 		<commons-cli.version>1.4</commons-cli.version>
 		<commons-math3.version>3.6.1</commons-math3.version>
